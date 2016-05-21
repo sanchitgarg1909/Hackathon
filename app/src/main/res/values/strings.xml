@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <string name="facebook_app_id">704789726326066</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCvVgADShth9ErIjBP9YsXQV8F1DPiTGvw
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
